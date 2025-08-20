@@ -1,0 +1,4 @@
+a=uday
+b=kumar
+print ("name :-",a)
+print ("midle name :-"b)
